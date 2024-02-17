@@ -144,30 +144,30 @@ where app_ranking=1;
 /*
 	Recomedations to the client,
 		1.Paid apps vs free apps-
-			• The higher average user rating for paid apps suggests that users who invest in and use the app may have greater 
+			â€¢ The higher average user rating for paid apps suggests that users who invest in and use the app may have greater 
 			  engagement and perceive higher value, potentially leading to better ratings. Therefore, considering the app's 
 			  apparent quality, it could be justified to set a certain price for it.
 
 		2.Langusages support-
-			• Apps supporting a moderate number of languages, specifically between 10 and 30, exhibit the highest average ratings. 
+			â€¢ Apps supporting a moderate number of languages, specifically between 10 and 30, exhibit the highest average ratings. 
 			  Therefore, it emphasizes that the key is not the quantity of supported languages but rather focusing on selecting 
 			  the right languages for the app
 
 		3.Genres with significant market opportunities- 
-			• Categories within finance and books where existing apps have lower user ratings indicate unmet user expectations. 
+			â€¢ Categories within finance and books where existing apps have lower user ratings indicate unmet user expectations. 
 			  This presents a market opportunity to develop high-quality apps in these categories, addressing user needs better 
 			  than existing apps, potentially leading to higher ratings and increased market penetration.
 
 		4.Apps Description length-
-			• We observed a positive correlation between the app's description length and user ratings. This implies that users 
+			â€¢ We observed a positive correlation between the app's description length and user ratings. This implies that users 
 			  value apps with a clear understanding of their purpose and functionality before installation. Therefore, a 
 			  well-crafted description can effectively set clear expectations, potentially leading to increased user satisfaction.
 
 		5. Target ratings-
-			• On average, all apps have a rating of 3.5. To stand out from the crowd, the app should aim for a rating above 3.5.
+			â€¢ On average, all apps have a rating of 3.5. To stand out from the crowd, the app should aim for a rating above 3.5.
 
 		6. High competitve league-
-			• Games and entertainment categories have a high volume of apps, indicating a potentially saturated market. While 
+			â€¢ Games and entertainment categories have a high volume of apps, indicating a potentially saturated market. While 
 			  entering this sector poses challenges due to intense competition, the high demand suggests opportunities for those 
 			  apps which can distinguish themselves in the competitive landscape.
 
